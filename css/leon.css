@@ -233,6 +233,7 @@ body {
   color: #444;
   font-weight: 300;
   line-height: 1.6;
+<<<<<<< HEAD
 }
 .services .services-content .image {
   text-align: center;
@@ -255,5 +256,6 @@ body {
   .image-column {
     display: none;
   }
+=======
+>>>>>>> 6ff771374e09539aca2ebe3e10b5a4fa849491a5
 }
-/* End Services */
