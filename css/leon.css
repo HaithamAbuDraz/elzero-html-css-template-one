@@ -390,7 +390,7 @@ body {
   display: block;
   font-size: 35px;
   font-weight: 800;
-  color: var(--secondary-color);
+  color: var(--main-color);
   text-decoration: none;
 }
 .contact .info .social {
